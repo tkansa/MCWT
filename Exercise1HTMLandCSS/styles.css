@@ -1,0 +1,19 @@
+.orange-container {
+    width: 600px;
+    height: 500px;
+    background: rgb(250, 133, 112);
+    border-radius: 10px;
+    
+    
+    
+}
+
+.gray-container {
+    background: #F2F2F2;
+    width: 450px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 75px;
+    position: absolute;
+    box-shadow: 0px 1px 10px #9c9898, 0px 0px 2px #dddddd;
+}
